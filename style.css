@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#pos-app {
+    margin-top: 20px;
+}
+
+h2 {
+    text-align: center;
+}
+
+ul {
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+#total-items {
+    font-size: 1.2em;
+    font-weight: bold;
+    margin: 10px 0;
+}
+
+#total-change {
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+/* Custom CSS for items row */
+#items-row .col-md-4 {
+    margin-bottom: 20px;
+}
